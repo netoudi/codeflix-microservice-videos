@@ -1,0 +1,9 @@
+.idea
+.vscode
+.DS_Store
+
+/.docker/dbdata/**
+!/.docker/dbdata/.gitkeep
+
+/.docker/.cache/**
+!/.docker/.cache/.gitkeep
